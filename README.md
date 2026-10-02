@@ -48,7 +48,6 @@ class MarcosSantos:
 ## GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quinhos\&show_icons=true\&theme=highcontrast\&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quinhos\&layout=compact\&theme=highcontrast\&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
