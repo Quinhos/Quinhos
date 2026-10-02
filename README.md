@@ -1,46 +1,60 @@
-<h1 align="left">Hey 👋</h1>
+# Hi, I'm Quinhos!
 
-###
+### Software Engineering Student | Data & Technology Enthusiast
 
-<p align="left">My name is Marcos and I'm a student from Brazil.</p>
+I'm a Software Engineering student at **FIAP**, passionate about technology, data, and building practical solutions.
 
-###
+I have hands-on experience with **Python, SQL, databases, and data analysis**, developed through academic and personal projects. I'm constantly learning and exploring new technologies while building projects that turn ideas into practical solutions.
 
-<h2 align="left">About me</h2>
+```python
+class MarcosSantos:
+    name = "Marcos Santos"
+    username = "Quinhos"
+    education = "Software Engineering @ FIAP"
+    location = "São Paulo, Brazil"
 
-###
+    interests = [
+        "Data",
+        "Data Analysis",
+        "Databases",
+        "Technology"
+    ]
 
-<p align="left">✨ Creating bugs since 2023<br>🎲 Fun fact: my dog name is Zé</p>
+    languages = [
+        "Python",
+        "SQL",
+        "Java"
+    ]
+```
 
-###
+<br>
 
-<h2 align="left">I also have a experience with</h2>
+## Tech Stack
 
-###
+### Languages
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></code> <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /></code> <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /></code>
 
-###
+### Data & Databases
 
-<h2 align="left">Social Media</h2>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /></code> <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /></code> <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" /></code> <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /></code> <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain-wordmark.svg" /></code>
 
-###
+### Tools
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code> <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></code> <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
 
-###
+<br>
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quinhos\&show_icons=true\&theme=highcontrast\&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quinhos\&layout=compact\&theme=highcontrast\&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+## Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marcossantos-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Quinhos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:marcossantos3003@icloud.com)
